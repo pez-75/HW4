@@ -1,0 +1,56 @@
+
+body {
+	font-family: "Times New Roman", helvetica sans-serif;
+	padding: 30px;
+	background: black;
+	font-size: 24px;
+}
+.container {
+	width: 750px;
+	
+	background-color: #aeaeae;
+	background-repeat: no-repeat;
+}
+
+#instructions {
+	background-color: #ffff00;
+}
+
+ .crystal-image {
+    	width: 150px;
+    	height: 200px;
+    }
+    
+    #crystals {
+    	
+    }
+   
+    .targetno, .targetno h2 {
+    	font-family: 'roboto', helvetica;
+    	font-size: 25pt;
+    	font-weight: thin;
+    	color: black;
+    }
+    .targetno {
+    	border: 5px solid #A0fcff;
+    	
+    }
+  
+    
+   
+    #current-score {
+    	border: 2px solid #F2E4FE;
+    	background-color: green;
+    }
+    #score {
+    	border: 2px solid #E4FEFE;
+    	background-color: teal;
+    }
+    #current-score #score {
+    	font-weight: bold;
+    	font-family: roboto;
+    }
+    .CS {
+    	background-color: teal;
+    	height: 150px;
+    }
